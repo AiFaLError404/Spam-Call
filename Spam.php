@@ -2,13 +2,13 @@
 []             SpamCall  	           []
 [] =================================== []
 [] => Author   : AiFaL_404             []
-[] => Nama     : AifaL		           []
-[] => Youtube  : -		               []
-[] => Facebook : Muhamaf Billal	       []
+[] => Nama     : AifaL		       []
+[] => Youtube  : -		       []
+[] => Facebook : Aifal Kancilfou       []
 [] => Intagram : @aifal_rendra_saputra []
-[] => github   : -		               []
+[] => github   : -		       []
 [] =================================== []
-[]       Gunakan Dengan Bijak		   []
+[]       Gunakan Dengan Bijak		
 [] =================================== []
 
 <?php
